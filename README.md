@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 New graduate from Stat(Major) and CS(Minor)<br>🌱 I’m currently learning Deep Learning<br>💬 Feel free to ask about my repos<br>
+🎓 New graduate from Stat(Major) and CS(Minor)<br>💬 Feel free to ask about my repos<br>
 
 
 ## 🌐 Socials:
